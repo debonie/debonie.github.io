@@ -38,14 +38,17 @@ h1,h2,h3 {
 
 .navigation_bar {
     background: #3b3633;
-    padding: 0;
+    padding: 10px 0;
     text-align: center;
 }
 .navigation_bar ul {
     list-style: none;
-    display: inline-flex;
+    padding: 0;
+    text-align: center;
+    margin: 0;
 }
 .navigation_bar li {
+    display: inline;
     margin-left: 10px;
     margin-right: 10px;
 }
