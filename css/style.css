@@ -20,6 +20,7 @@ h1,h2,h3 {
 }
 .hero h1,p,a {
     color: white;
+    text-align: center;
 }
 .name {
     border: 1px solid white;
